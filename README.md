@@ -78,7 +78,6 @@ We created a Streamlit web app where users can:
 ├── T5_Fine_Tuning_Code/   # Code for LoRA-based fine-tuning of T5
 ├── web_app/               # Streamlit web app code
 ├── README.md
-├── .gitignore
 └── Text Analytics Project Workbook.ipynb   # End-to-end notebook (Whisper transcription, EDA, 
                                             NER, Summarization, Evaluation)
 ```
