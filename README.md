@@ -48,8 +48,7 @@ We created a Streamlit web app where users can:
 - Run NER
 - Generate different types of summaries (T5 / LLaMA-based)
 
-> **Note:** The web app can only be run on the **Deep Dish server**  
-> because it uses multi-agent summarization with **LLaMA-3**, which requires significant computational resources and a locally hosted model.
+> **Note:** The web app can only be run on the **Deep Dish server** because it uses multi-agent summarization with **LLaMA-3**, which requires significant computational resources and a locally hosted model.
 
 ## How to Run Web App (on Deep Dish Server)
 
@@ -68,7 +67,7 @@ We created a Streamlit web app where users can:
     ```bash
     streamlit run webapp.py
     ```
-    
+
 ---
 
 
@@ -80,7 +79,8 @@ We created a Streamlit web app where users can:
 ├── web_app/               # Streamlit web app code
 ├── README.md
 ├── .gitignore
-└── Text Analytics Project Workbook.ipynb   # End-to-end notebook (Whisper transcription, EDA, NER, Summarization, Evaluation)
+└── Text Analytics Project Workbook.ipynb   # End-to-end notebook (Whisper transcription, EDA, 
+NER, Summarization, Evaluation)
 ```
 
 ---
