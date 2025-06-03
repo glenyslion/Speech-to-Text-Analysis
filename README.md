@@ -80,7 +80,7 @@ We created a Streamlit web app where users can:
 ├── README.md
 ├── .gitignore
 └── Text Analytics Project Workbook.ipynb   # End-to-end notebook (Whisper transcription, EDA, 
-NER, Summarization, Evaluation)
+                                            NER, Summarization, Evaluation)
 ```
 
 ---
