@@ -73,7 +73,7 @@ We created a Streamlit web app where users can:
 
 ## Project Structure
 ```text
-├── data/                   # Audio transcripts and intermediate CSV files
+├── data/                  # Audio transcripts and intermediate CSV files
 ├── LoRA_Weights/          # Fine-tuned model weights using LoRA
 ├── T5_Fine_Tuning_Code/   # Code for LoRA-based fine-tuning of T5
 ├── web_app/               # Streamlit web app code
